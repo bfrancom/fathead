@@ -3,7 +3,7 @@ layout: single
 title: Sunglasses for Big Heads
 ---
 
-For me, it never fails. I go to purchase some sunglasses, put them on for a few seconds, and they look and feel good, so I purchase them.  Then when I actually have to wear them for more than 5 minutes, the pressure from them behind my ears starts giving me a headache. To compensate for this illustrious feeling, I try moving and angling them. But it still freaking hurts, so freaking bad! Need sunglasses for a long road-trip, or a day outdoors? It's gonna cost you a lot...in pain!
+For me, it never fails. I go to purchase some sunglasses, put them on for a few seconds, and they look and feel good, so I go ahead and buy them.  Then when I actually have to wear them for more than 5 minutes, the pressure from them behind my ears starts giving me a headache. To compensate for this illustrious feeling, I try moving and angling them. But it still freaking hurts, so freaking bad! Need sunglasses for a long road-trip, or a day outdoors? It's gonna cost you a lot...in pain!
 
 I just assumed that all sunglasses were made the same— for babies. I can't tell you the countless pairs I've had over the years that have caused so much pain. I would sit there, and try to pry the glasses wider, only to either break them, or to no avail. I've put them over something wide to try and stretch them out, but because most are plastic, they would just bounce right back to baby-size. The metal ones I had would bend funny, and end up crooked, so they wouldn't work either.
 
