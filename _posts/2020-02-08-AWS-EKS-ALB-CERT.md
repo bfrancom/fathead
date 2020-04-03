@@ -1,8 +1,8 @@
 ---
-layout: post
 title: AWS EKS Kubernetes Fargate Ingress Controller ALB Certificate
-date: 2020-02-08 20:38:00.000000000 -06:00
-
+exerpt: "Example of setting up certificate on AWS application load balancer for EKS/Fargate"
+last_modified_at: 2020-02-08T21:36:18-06:00
+toc: true
 ---
 
 Wow that title is a mouthful!
