@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Linux Project Management Utilities
 date: 2009-04-01 09:38:00.000000000 -06:00
 ---

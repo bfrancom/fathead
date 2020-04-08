@@ -1,5 +1,4 @@
 ---
-layout: post
 title: CrossPress
 date: 2010-04-08 05:36:01.000000000 -06:00
 ---

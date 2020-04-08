@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Star Wars: The Force Awakens Review:: Yet another Death Star (YADS)'
 date: 2015-12-19 10:45:43.000000000 -07:00
 ---

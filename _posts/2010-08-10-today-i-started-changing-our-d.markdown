@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Today I started changing our d...
 date: 2010-08-10 17:33:02.000000000 -06:00
 ---

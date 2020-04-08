@@ -1,5 +1,4 @@
 ---
-layout: post
 title: FreeNAS
 date: 2009-08-05 10:33:00.000000000 -06:00
 ---

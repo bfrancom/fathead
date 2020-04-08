@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Moved Book Over to GitHub
 date: 2014-01-05 10:48:19.000000000 -07:00
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Novell Linux OES SP2 Part Deux
 date: 2006-11-01 09:09:00.000000000 -07:00
 ---

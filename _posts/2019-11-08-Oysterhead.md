@@ -1,5 +1,4 @@
 ---
-layout: post
 title: New Music Friday—Oysterhead
 date: 2019-11-08 17:00:00.000000000 -06:00
 

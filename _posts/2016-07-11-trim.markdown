@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Trim/Convert mp4v2 files using ffmpeg
 date: 2016-07-11 13:24:22.000000000 -06:00
 ---

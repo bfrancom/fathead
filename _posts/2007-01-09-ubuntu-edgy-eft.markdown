@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Ubuntu Edgy Eft
 date: 2007-01-09 14:00:00.000000000 -07:00
 ---

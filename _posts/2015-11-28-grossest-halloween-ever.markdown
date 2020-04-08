@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Grossest Halloween Ever
 date: 2015-11-28 20:17:37.000000000 -07:00
 ---

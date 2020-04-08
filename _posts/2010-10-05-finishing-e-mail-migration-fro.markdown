@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Finishing e-mail migration fro...
 date: 2010-10-05 02:59:57.000000000 -06:00
 ---

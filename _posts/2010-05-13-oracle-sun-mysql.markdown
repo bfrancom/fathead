@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Oracle, Sun, & MySQL
 date: 2010-05-13 17:47:32.000000000 -06:00
 ---

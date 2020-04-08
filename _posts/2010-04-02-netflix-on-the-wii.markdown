@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Netflix on the Wii
 date: 2010-04-02 17:10:35.000000000 -06:00
 ---

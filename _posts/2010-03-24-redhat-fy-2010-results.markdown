@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Redhat FY 2010 Results
 date: 2010-03-24 15:23:47.000000000 -06:00
 ---

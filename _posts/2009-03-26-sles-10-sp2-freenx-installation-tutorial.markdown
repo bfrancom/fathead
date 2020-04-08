@@ -1,5 +1,4 @@
 ---
-layout: post
 title: SLES 10 SP2 FreeNX Installation Tutorial
 date: 2009-03-26 09:49:00.000000000 -06:00
 ---

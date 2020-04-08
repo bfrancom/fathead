@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Playing Jericho with Real Media codecs on Linux in Mplayer
 date: 2007-08-18 14:14:00.000000000 -06:00
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Tweaking Hylafax 4.3.0 on OpenSUSE 10.2
 date: 2007-05-22 02:58:00.000000000 -06:00
 ---

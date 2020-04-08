@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Tar to archive over ssh
 date: 2007-01-27 05:35:00.000000000 -07:00
 ---

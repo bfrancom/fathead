@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Openswan debug "no connection named tunnelipsec"
 date: 2008-09-03 10:38:00.000000000 -06:00
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Tmux in 30 seconds
 date: 2016-01-02 16:32:18.000000000 -07:00
 ---

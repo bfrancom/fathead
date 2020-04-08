@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Physwall (Science Fiction Short Story)
 date: 2019-07-31 21:31:00.000000000 -06:00
 

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Linux i3 Window Manager and Chromium Kerberos Flags
 date: 2015-12-02 14:24:11.000000000 -07:00
 ---

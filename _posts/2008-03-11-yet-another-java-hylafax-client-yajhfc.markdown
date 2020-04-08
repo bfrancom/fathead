@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Yet Another Java HylaFax Client (YajHFC)
 date: 2008-03-11 03:56:00.000000000 -06:00
 ---

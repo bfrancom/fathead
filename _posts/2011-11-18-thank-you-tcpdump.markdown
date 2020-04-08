@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Thank you tcpdump.
 date: 2011-11-18 09:23:05.000000000 -07:00
 ---

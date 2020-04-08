@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Lame Law Submitters DCSA
 date: 2006-01-28 15:47:00.000000000 -07:00
 ---

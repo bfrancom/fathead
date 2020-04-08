@@ -1,5 +1,4 @@
 ---
-layout: post
 title: AWS Data Migration Service
 date: 2020-01-30 20:38:00.000000000 -06:00
 

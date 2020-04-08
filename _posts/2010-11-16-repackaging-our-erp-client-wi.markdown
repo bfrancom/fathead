@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Repackaging our #ERP client wi...'
 date: 2010-11-16 06:36:04.000000000 -07:00
 ---

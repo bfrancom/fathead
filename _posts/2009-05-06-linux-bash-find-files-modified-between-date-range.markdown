@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Linux, Bash Find Files Modified Between Date Range
 date: 2009-05-06 08:21:00.000000000 -06:00
 ---

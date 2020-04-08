@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Induce Act
 date: 2004-09-28 04:37:00.000000000 -06:00
 ---

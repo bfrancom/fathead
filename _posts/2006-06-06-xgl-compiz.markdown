@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Xgl Compiz
 date: 2006-06-06 12:35:00.000000000 -06:00
 ---

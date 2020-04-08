@@ -1,5 +1,4 @@
 ---
-layout: post
 title: i3wm, Compton, i3lock, xscreensaver, notifications
 date: 2016-10-18 16:54:22.000000000 -06:00
 ---

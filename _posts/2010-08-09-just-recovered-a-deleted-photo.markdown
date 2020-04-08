@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Just recovered a deleted photo…
 date: 2010-08-09 15:39:36.000000000 -06:00
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Switched site!
 date: 2014-02-09 16:36:14.000000000 -07:00
 ---

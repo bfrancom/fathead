@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Hylafax on Suse 10.0 Fax to E-mail
 date: 2006-02-27 09:44:00.000000000 -07:00
 ---

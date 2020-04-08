@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Russian Soda Commercial using ...
 date: 2010-08-25 15:38:55.000000000 -06:00
 ---

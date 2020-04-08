@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Ubuntu Hardy Heron Review
 date: 2008-04-29 15:14:00.000000000 -06:00
 ---

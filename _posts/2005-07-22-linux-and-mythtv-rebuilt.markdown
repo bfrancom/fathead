@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Linux and MythTV Rebuilt
 date: 2005-07-22 07:27:00.000000000 -06:00
 ---

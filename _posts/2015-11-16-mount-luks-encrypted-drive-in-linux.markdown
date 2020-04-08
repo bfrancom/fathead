@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Mount Luks Encrypted LVM Volume in Linux
 date: 2015-11-16 19:40:13.000000000 -07:00
 ---

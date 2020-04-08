@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Google Personalized Home Page
 date: 2006-06-14 15:38:00.000000000 -06:00
 ---

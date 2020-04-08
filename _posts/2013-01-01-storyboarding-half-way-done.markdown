@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Storyboarding half way done!
 date: 2013-01-01 20:51:07.000000000 -07:00
 ---

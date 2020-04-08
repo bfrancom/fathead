@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Hardware Negotiations
 date: 2010-05-06 23:15:20.000000000 -06:00
 ---

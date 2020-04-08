@@ -1,5 +1,4 @@
 ---
-layout: post
 title: How to Capture Video or Music Streams and convert them to mp3's
 date: 2006-04-20 00:29:00.000000000 -06:00
 ---

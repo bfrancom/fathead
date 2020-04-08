@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Working on some bundles in Zen...
 date: 2010-09-14 05:58:07.000000000 -06:00
 ---

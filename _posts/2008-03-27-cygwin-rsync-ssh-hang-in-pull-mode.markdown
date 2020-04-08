@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Cygwin RSYNC ssh hang in "pull" mode
 date: 2008-03-27 07:57:00.000000000 -06:00
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Blackberry 8900 Wipe Address Book and Resync
 date: 2009-02-11 07:34:00.000000000 -07:00
 ---

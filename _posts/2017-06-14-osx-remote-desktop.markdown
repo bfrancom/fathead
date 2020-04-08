@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Automating OS X and Microsoft Remote Desktop
 date: 2017-06-14 16:12:22.000000000 -06:00
 ---

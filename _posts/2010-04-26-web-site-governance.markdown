@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Web Site Governance
 date: 2010-04-26 16:59:54.000000000 -06:00
 ---

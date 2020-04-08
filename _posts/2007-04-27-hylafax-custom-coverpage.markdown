@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Hylafax Custom Coverpage
 date: 2007-04-27 05:44:00.000000000 -06:00
 ---

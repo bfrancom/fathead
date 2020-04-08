@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Great Article, Great Quote!
 date: 2004-11-10 09:32:00.000000000 -07:00
 ---

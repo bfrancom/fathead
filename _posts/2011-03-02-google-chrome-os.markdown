@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Google Chrome OS
 date: 2011-03-02 04:58:48.000000000 -07:00
 ---

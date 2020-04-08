@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Blender 3D :: Project Orange'
 date: 2005-08-02 06:20:00.000000000 -06:00
 ---

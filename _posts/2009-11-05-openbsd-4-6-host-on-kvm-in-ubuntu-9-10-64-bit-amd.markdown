@@ -1,5 +1,4 @@
 ---
-layout: post
 title: OpenBSD 4.6 host on KVM in Ubuntu 9.10 64 bit AMD
 date: 2009-11-05 15:08:00.000000000 -07:00
 ---

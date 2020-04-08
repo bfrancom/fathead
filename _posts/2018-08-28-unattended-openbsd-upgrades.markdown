@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Unattended OpenBSD Upgrades using Ansible
 date: 2018-09-01 16:17:22.000000000 -06:00
 ---

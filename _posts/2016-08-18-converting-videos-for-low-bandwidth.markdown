@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Using avconv to Convert Videos for Low Bandwidth (3G)
 date: 2016-08-18 12:33:22.000000000 -06:00
 ---

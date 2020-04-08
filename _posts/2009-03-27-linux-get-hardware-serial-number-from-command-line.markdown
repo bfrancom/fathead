@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Linux Get Hardware Serial Number From Command Line
 date: 2009-03-27 05:09:00.000000000 -06:00
 ---

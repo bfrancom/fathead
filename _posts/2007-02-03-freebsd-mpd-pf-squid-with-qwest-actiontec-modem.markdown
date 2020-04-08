@@ -1,5 +1,4 @@
 ---
-layout: post
 title: FreeBSD MPD PF Squid (with Qwest Actiontec Modem)
 date: 2007-02-03 12:02:00.000000000 -07:00
 ---

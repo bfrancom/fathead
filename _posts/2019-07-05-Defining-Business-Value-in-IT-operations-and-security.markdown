@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Defining Business Value in IT Operations and Information Security
 date: 2019-07-05 10:22:22.000000000 -06:00
 

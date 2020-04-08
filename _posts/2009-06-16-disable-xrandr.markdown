@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Disable XRandR
 date: 2009-06-16 11:24:00.000000000 -06:00
 ---

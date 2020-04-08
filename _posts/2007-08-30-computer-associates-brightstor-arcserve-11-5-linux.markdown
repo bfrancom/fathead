@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Computer Associates Brightstor Arcserve 11.5 Linux
 date: 2007-08-30 06:38:00.000000000 -06:00
 ---

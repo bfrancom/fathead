@@ -1,5 +1,4 @@
 ---
-layout: post
 title: iPad and the Tablet World
 date: 2010-02-03 13:18:00.000000000 -07:00
 ---

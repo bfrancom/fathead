@@ -1,5 +1,4 @@
 ---
-layout: post
 title: XEN SLES 10 SP 2 Networking
 date: 2008-06-02 05:51:00.000000000 -06:00
 ---

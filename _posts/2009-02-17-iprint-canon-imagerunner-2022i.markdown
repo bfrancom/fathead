@@ -1,5 +1,4 @@
 ---
-layout: post
 title: iPrint Canon ImageRunner 2022i
 date: 2009-02-17 08:43:00.000000000 -07:00
 ---

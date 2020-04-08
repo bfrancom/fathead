@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Mythbuntu, XBMC, HDMI
 date: 2011-04-04 22:15:39.000000000 -06:00
 ---

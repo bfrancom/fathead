@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Remotely configuring several #...'
 date: 2010-10-09 03:38:10.000000000 -06:00
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Is it overly nerdy of me to us...
 date: 2010-08-28 14:24:06.000000000 -06:00
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: PFS First Choice Running on XP
 date: 2006-02-28 02:29:00.000000000 -07:00
 ---

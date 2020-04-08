@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Dysart Unified School District...
 date: 2011-01-19 02:33:23.000000000 -07:00
 ---

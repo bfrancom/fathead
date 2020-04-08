@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Mapping Drives in Cygwin
 date: 2006-11-14 05:56:00.000000000 -07:00
 ---

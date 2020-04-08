@@ -1,5 +1,4 @@
 ---
-layout: post
 title: More Concept Art
 date: 2012-11-08 21:45:31.000000000 -07:00
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: RAD Mobile
 date: 2006-08-31 02:57:00.000000000 -06:00
 ---

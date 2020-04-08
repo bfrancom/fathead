@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Learn something new every day:...
 date: 2010-09-08 23:26:45.000000000 -06:00
 ---

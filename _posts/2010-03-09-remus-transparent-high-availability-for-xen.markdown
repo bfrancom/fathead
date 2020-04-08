@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'REMUS: Transparent high availability for Xen'
 date: 2010-03-09 13:38:10.000000000 -07:00
 ---

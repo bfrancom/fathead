@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Change Management
 date: 2010-04-06 15:41:33.000000000 -06:00
 ---

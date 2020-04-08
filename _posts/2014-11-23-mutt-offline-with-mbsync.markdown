@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Mutt Offline Outlook365 With mbsync
 date: 2014-11-23 17:07:18.000000000 -07:00
 ---

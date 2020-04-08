@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Microsoft’s Ballmer: Android...'
 date: 2010-10-03 15:30:35.000000000 -06:00
 ---

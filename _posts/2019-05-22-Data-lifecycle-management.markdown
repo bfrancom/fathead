@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Data Lifecycle Management
 date: 2019-05-22 17:22:22.000000000 -06:00
 

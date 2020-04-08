@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Summertime
 date: 2019-12-23 20:00:00.000000000 -06:00
 

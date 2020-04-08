@@ -1,5 +1,4 @@
 ---
-layout: post
 title: NetWare 6.5 User Rights Listing
 date: 2007-09-14 04:52:00.000000000 -06:00
 ---

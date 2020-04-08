@@ -1,5 +1,4 @@
 ---
-layout: post
 title: SLES 10 x86_64 Subversion
 date: 2008-10-27 05:28:00.000000000 -06:00
 ---

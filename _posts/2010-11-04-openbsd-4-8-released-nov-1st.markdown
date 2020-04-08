@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "#OpenBSD 4.8 released Nov 1st!..."
 date: 2010-11-04 08:08:23.000000000 -06:00
 ---

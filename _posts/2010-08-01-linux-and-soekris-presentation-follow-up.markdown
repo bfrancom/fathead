@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Linux and Soekris Presentation Follow Up
 date: 2010-08-01 15:24:23.000000000 -06:00
 ---

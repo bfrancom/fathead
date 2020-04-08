@@ -1,5 +1,4 @@
 ---
-layout: post
 title: GroupWise 7 SLED 11
 date: 2009-06-16 02:08:00.000000000 -06:00
 ---

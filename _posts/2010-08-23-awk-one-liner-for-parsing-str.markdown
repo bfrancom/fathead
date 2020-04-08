@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "#awk one liner for parsing str..."
 date: 2010-08-23 09:30:54.000000000 -06:00
 ---

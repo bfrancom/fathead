@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Informative Quote on Using Open Source
 date: 2009-09-15 05:16:00.000000000 -06:00
 ---

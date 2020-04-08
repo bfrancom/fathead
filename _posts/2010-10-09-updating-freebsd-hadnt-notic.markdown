@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Updating #FreeBSD Hadn''t notic...'
 date: 2010-10-09 16:07:57.000000000 -06:00
 ---

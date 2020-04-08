@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Linux: bitlbee sipe and lync (skype for business) outlook 365'
 date: 2016-01-04 16:56:13.000000000 -07:00
 ---

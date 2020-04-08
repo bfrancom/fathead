@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Visual Studio 2012 rptproj Error
 date: 2013-06-14 15:11:24.000000000 -06:00
 ---

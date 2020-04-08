@@ -1,5 +1,4 @@
 ---
-layout: post
 title: OpenBSD Xenocara Missing Resolution
 date: 2017-01-11 10:12:22.000000000 -06:00
 ---

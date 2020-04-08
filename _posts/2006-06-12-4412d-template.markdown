@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 4412D+ Template
 date: 2006-06-12 10:20:00.000000000 -06:00
 ---

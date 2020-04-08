@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Slides From Inkscape Presentation
 date: 2010-11-03 16:23:24.000000000 -06:00
 ---

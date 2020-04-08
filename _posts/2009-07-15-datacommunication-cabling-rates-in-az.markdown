@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Data/Communication Cabling Rates in AZ.
 date: 2009-07-15 05:08:00.000000000 -06:00
 ---

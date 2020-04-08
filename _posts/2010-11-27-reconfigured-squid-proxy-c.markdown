@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Reconfigured #Squid #proxy.  C...'
 date: 2010-11-27 15:14:17.000000000 -07:00
 ---

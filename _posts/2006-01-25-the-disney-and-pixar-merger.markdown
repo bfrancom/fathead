@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The Disney and Pixar Merger
 date: 2006-01-25 05:49:00.000000000 -07:00
 ---

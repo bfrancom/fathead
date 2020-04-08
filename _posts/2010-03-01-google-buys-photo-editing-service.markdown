@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Google buys photo editing service
 date: 2010-03-01 13:03:15.000000000 -07:00
 ---

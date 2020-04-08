@@ -1,5 +1,4 @@
 ---
-layout: post
 title: OCS Inventory NG and "Invalid Command 'PerlSetEnv'
 date: 2007-10-17 11:00:00.000000000 -06:00
 ---

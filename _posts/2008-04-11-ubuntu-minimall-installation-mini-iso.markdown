@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Ubuntu Minimall Installation (mini.iso)
 date: 2008-04-11 02:30:00.000000000 -06:00
 ---

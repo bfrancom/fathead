@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Pet Peeve
 date: 2006-02-03 14:49:00.000000000 -07:00
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Screencasting Key-Press Software: key-mon'
 date: 2014-11-02 21:09:47.000000000 -07:00
 ---

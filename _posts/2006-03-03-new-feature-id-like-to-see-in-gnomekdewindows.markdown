@@ -1,5 +1,4 @@
 ---
-layout: post
 title: New feature I'd like to see in Gnome/KDE/Windows
 date: 2006-03-03 07:47:00.000000000 -07:00
 ---

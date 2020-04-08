@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Drum Machine for Linux
 date: 2005-01-20 12:07:00.000000000 -07:00
 ---

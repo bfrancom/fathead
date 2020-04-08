@@ -1,5 +1,4 @@
 ---
-layout: post
 title: SLES 10 SP 1 OES 2 LUM Enable User Broken
 date: 2009-02-12 10:33:00.000000000 -07:00
 ---

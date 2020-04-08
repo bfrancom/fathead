@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Over a Year With a Standing Desk
 date: 2015-01-20 13:42:49.000000000 -07:00
 ---

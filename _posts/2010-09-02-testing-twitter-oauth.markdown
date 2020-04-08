@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Testing Twitter OAUTH
 date: 2010-09-02 14:54:04.000000000 -06:00
 ---

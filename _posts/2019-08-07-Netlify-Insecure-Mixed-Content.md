@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Netlify Alert Insecure mixed content detected
 date: 2019-08-07 15:31:00.000000000 -06:00
 

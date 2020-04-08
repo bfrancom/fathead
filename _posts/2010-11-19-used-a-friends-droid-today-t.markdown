@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Used a friends #Droid today. T...'
 date: 2010-11-19 08:20:16.000000000 -07:00
 ---

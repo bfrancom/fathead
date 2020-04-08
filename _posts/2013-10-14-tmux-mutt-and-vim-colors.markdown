@@ -1,5 +1,4 @@
 ---
-layout: post
 title: TMUX, mutt, and Vim Colors
 date: 2013-10-14 15:26:53.000000000 -06:00
 ---

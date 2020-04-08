@@ -1,5 +1,4 @@
 ---
-layout: post
 title: MythTV Setup
 date: 2005-09-27 15:13:00.000000000 -06:00
 ---

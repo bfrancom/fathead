@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Back into 3D
 date: 2005-12-04 15:10:00.000000000 -07:00
 ---

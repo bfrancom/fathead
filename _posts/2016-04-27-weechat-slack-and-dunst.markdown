@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Weechat, Slack and Dunst
 date: 2016-04-27 12:27:03.000000000 -06:00
 ---

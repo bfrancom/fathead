@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Sunglasses for Big Heads
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Linux and MythTV sound FINALLY!
 date: 2005-02-23 08:15:00.000000000 -07:00
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: New Music Friday—The Avalanches
 date: 2019-11-15 14:00:00.000000000 -06:00
 

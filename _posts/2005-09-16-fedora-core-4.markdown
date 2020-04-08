@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Fedora Core 4
 date: 2005-09-16 06:13:00.000000000 -06:00
 ---

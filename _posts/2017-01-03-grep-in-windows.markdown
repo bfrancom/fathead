@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Powershell grep
 date: 2017-01-03 17:09:22.000000000 -06:00
 ---

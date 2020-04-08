@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Just imported my old blog
 date: 2010-03-01 14:05:48.000000000 -07:00
 ---

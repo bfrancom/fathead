@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Using curl and wget with Headers to Troubleshoot a Rest Endpoint
 date: 2015-10-08 15:33:52.000000000 -06:00
 ---

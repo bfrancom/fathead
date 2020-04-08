@@ -1,5 +1,4 @@
 ---
-layout: post
 title: tnsping & sqlplus On Ubuntu 13.10
 date: 2014-04-01 15:47:14.000000000 -06:00
 ---

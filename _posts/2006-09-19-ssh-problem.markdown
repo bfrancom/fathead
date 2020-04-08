@@ -1,5 +1,4 @@
 ---
-layout: post
 title: SSH Problem
 date: 2006-09-19 11:04:00.000000000 -06:00
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Reconfiguring Home LAN
 date: 2010-11-29 14:29:43.000000000 -07:00
 ---

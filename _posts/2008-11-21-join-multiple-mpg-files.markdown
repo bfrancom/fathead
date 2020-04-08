@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Join Multiple mpg Files
 date: 2008-11-21 07:44:00.000000000 -07:00
 ---

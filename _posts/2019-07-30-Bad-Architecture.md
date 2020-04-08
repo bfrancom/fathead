@@ -1,5 +1,4 @@
 ---
-layout: post
 title: It's 2019 and Your Taking an All Day Outage????!!!!
 date: 2019-07-30 15:38:00.000000000 -06:00
 

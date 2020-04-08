@@ -1,5 +1,4 @@
 ---
-layout: post
 title: qemu & physical disk
 date: 2015-06-16 13:59:49.000000000 -06:00
 ---

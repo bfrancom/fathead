@@ -1,5 +1,4 @@
 ---
-layout: post
 title: HP Care Pack Registration and Firefox=BROKEN
 date: 2008-09-05 04:14:00.000000000 -06:00
 ---

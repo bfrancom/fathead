@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Google Chrome on Ubuntu 9.10 Linux
 date: 2009-12-09 00:07:00.000000000 -07:00
 ---

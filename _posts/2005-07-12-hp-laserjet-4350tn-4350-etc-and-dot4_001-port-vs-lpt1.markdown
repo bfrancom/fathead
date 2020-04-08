@@ -1,5 +1,4 @@
 ---
-layout: post
 title: HP Laserjet 4350tn 4350 etc. and DOT4_001 port vs. LPT1
 date: 2005-07-12 04:55:00.000000000 -06:00
 ---

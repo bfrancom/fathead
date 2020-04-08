@@ -1,5 +1,4 @@
 ---
-layout: post
 title: CUPS Error, "w2 invalid pers"
 date: 2007-05-17 11:12:00.000000000 -06:00
 ---

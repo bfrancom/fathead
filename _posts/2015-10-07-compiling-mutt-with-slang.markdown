@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Compiling Mutt With Slang
 date: 2015-10-07 14:04:18.000000000 -06:00
 ---

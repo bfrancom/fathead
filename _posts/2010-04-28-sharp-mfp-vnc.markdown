@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Sharp MFP & VNC
 date: 2010-04-28 03:40:56.000000000 -06:00
 ---

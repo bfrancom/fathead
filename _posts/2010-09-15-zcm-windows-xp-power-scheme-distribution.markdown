@@ -1,5 +1,4 @@
 ---
-layout: post
 title: ZCM Windows XP Power Scheme Distribution
 date: 2010-09-15 02:28:25.000000000 -06:00
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: '2011 in Review: Patents Misuse...'
 date: 2011-12-31 10:00:39.000000000 -07:00
 ---

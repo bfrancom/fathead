@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Xfce, Thunar and GPG
 date: 2011-11-08 12:48:36.000000000 -07:00
 ---

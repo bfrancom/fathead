@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Next Wed. I will be presenting...
 date: 2010-10-20 16:07:16.000000000 -06:00
 ---

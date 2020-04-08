@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Steel Pulse and Lone Ranger
 date: 2019-10-25 18:03:00.000000000 -06:00
 

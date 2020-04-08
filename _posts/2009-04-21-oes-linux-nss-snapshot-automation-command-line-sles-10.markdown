@@ -1,5 +1,4 @@
 ---
-layout: post
 title: OES Linux NSS Snapshot Automation Command Line SLES 10
 date: 2009-04-21 03:36:00.000000000 -06:00
 ---

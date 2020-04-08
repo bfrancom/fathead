@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Linux KDE Connect vs macOS Sierra Continuity
 date: 2016-11-04 09:54:22.000000000 -06:00
 ---

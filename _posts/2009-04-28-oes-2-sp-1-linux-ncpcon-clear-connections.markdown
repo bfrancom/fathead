@@ -1,5 +1,4 @@
 ---
-layout: post
 title: OES 2 SP 1 Linux NCPCON Clear Connections
 date: 2009-04-28 11:24:00.000000000 -06:00
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Openswan & Cisco ASA 5505
 date: 2008-08-24 01:32:00.000000000 -06:00
 ---

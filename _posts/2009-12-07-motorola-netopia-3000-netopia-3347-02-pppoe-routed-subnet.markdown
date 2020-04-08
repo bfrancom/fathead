@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Motorola Netopia 3000 (Netopia 3347-02) PPPoE & Routed Subnet
 date: 2009-12-07 09:10:00.000000000 -07:00
 ---

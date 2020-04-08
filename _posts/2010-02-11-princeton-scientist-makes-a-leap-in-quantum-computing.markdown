@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Princeton scientist makes a leap in quantum computing
 date: 2010-02-11 14:43:00.000000000 -07:00
 ---

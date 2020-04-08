@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Disaster Recovery
 date: 2010-06-25 16:14:05.000000000 -06:00
 ---

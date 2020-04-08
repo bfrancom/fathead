@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Amplifier, Incubus, and Infectious Grooves
 date: 2019-11-01 19:54:00.000000000 -06:00
 

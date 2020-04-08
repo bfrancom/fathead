@@ -1,5 +1,4 @@
 ---
-layout: post
 title: How My Desktop Has Changed Over Time
 date: 2007-02-24 08:42:00.000000000 -07:00
 ---

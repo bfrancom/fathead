@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Squid NCSA Auth JVM Java Applet Problem
 date: 2008-03-20 01:49:00.000000000 -06:00
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: openSUSE resolution not filling screen
 date: 2008-05-22 04:47:00.000000000 -06:00
 ---

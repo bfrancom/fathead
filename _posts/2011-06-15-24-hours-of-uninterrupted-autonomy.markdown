@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 24 Hours of Uninterrupted Autonomy
 date: 2011-06-15 01:25:00.000000000 -06:00
 ---

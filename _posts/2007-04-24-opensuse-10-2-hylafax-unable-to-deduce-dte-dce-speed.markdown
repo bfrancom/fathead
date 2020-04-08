@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'OpenSUSE 10.2: Hylafax Unable to deduce DTE-DCE speed'
 date: 2007-04-24 08:38:00.000000000 -06:00
 ---

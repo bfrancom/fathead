@@ -1,5 +1,4 @@
 ---
-layout: post
 title: MythTV
 date: 2005-07-26 04:10:00.000000000 -06:00
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Ubuntu Dapper Drake
 date: 2006-06-01 08:13:00.000000000 -06:00
 ---

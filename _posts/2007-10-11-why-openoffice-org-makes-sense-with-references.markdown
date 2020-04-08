@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Why OpenOffice.org Makes Sense (with references)
 date: 2007-10-11 17:07:00.000000000 -06:00
 ---

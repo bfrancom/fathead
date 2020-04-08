@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Download Brightcove Videos
 date: 2016-03-17 16:05:10.000000000 -06:00
 ---

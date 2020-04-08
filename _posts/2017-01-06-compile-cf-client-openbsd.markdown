@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Compiling cloud foundry cf client on OpenBSD
 date: 2017-01-06 17:09:22.000000000 -06:00
 ---

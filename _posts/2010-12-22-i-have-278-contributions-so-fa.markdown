@@ -1,5 +1,4 @@
 ---
-layout: post
 title: I have 278 contributions so fa...
 date: 2010-12-22 09:59:54.000000000 -07:00
 ---

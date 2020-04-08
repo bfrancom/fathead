@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Space Captain Rowan: My Open Book Project'
 date: 2012-10-26 18:37:26.000000000 -06:00
 ---

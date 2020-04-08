@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Setting up #kvm #virtual #Linu...'
 date: 2010-10-20 09:05:28.000000000 -06:00
 ---

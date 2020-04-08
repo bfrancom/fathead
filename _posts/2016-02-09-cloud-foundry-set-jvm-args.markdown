@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Cloud Foundry Set JVM Args
 date: 2016-02-09 14:48:57.000000000 -07:00
 ---

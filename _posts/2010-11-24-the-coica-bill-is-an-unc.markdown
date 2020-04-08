@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "\"The [ #COICA ] bill is an unc..."
 date: 2010-11-24 14:13:16.000000000 -07:00
 ---

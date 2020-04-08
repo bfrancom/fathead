@@ -1,5 +1,4 @@
 ---
-layout: post
 title: HP Web JetAdmin 7.6
 date: 2004-07-21 05:09:00.000000000 -06:00
 ---
