@@ -1,5 +1,4 @@
 ---
-layout: post
 title: OpenBSD PF and OpenDNS
 date: 2020-01-31 10:38:00.000000000 -06:00
 
