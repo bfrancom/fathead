@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Recruiters
 permalink: /recruiters/
 ---

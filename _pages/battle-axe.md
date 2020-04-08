@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Battle-Axe
 permalink: /battle-axe/
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: eBooks
 date: 2019-03-02 21:00:43.000000000 -06:00
 ---

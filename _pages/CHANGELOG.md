@@ -43,7 +43,6 @@
 
 ### Enhancements
 
-- Allow `home` layout to display posts without pagination. [#2378](https://github.com/mmistakes/minimal-mistakes/pull/2378)
 - Add links to high resolution skin screenshots in README. [#2363](https://github.com/mmistakes/minimal-mistakes/issues/2363)
 - Update README and LICENSE. [#2367](https://github.com/mmistakes/minimal-mistakes/pull/2367)
 - Update `.gitignore` file. [#2366](https://github.com/mmistakes/minimal-mistakes/pull/2366)
@@ -52,12 +51,10 @@
 - Use `%-d` instead of `%d` so displayed dates aren't padded with zero. [#2359](https://github.com/mmistakes/minimal-mistakes/pull/2359)
 - Update table of contents helper (`toc.html`) to [v1.0.8](https://github.com/allejo/jekyll-toc/releases). [#2355](https://github.com/mmistakes/minimal-mistakes/pull/2355)
 - Add missing Dutch localized UI text strings. [#2321](https://github.com/mmistakes/minimal-mistakes/pull/2321)
-- Support page header (hero) in `archive-taxonomy` layout. [#2320](https://github.com/mmistakes/minimal-mistakes/pull/2320)
 - Add social icon color for Keybase. [#2302](https://github.com/mmistakes/minimal-mistakes/pull/2302)
 
 ### Bug Fixes
 
-- Fix JavaScript comments in Disqus include to be compatible with `compress` layout. [#2373](https://github.com/mmistakes/minimal-mistakes/pull/2373)
 - Fix wrong newline concatenation in SEO description [#2368](https://github.com/mmistakes/minimal-mistakes/pull/2368) [#2354](https://github.com/mmistakes/minimal-mistakes/issues/2354)
 - Fix Staticman v2/v3 conditional for showing comments. [#2351](https://github.com/mmistakes/minimal-mistakes/pull/2351)
 - Fix masthead logo path. [#2332](https://github.com/mmistakes/minimal-mistakes/pull/2332)
@@ -172,7 +169,6 @@
 
 ### Enhancements
 
-- Update [`compress` layout](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#compress-layout) to v3.1.0. [#2128](https://github.com/mmistakes/minimal-mistakes/pull/2128)
 - Update jQuery to v3.4.0. [#2129](https://github.com/mmistakes/minimal-mistakes/pull/2129)
 
 ### Bug Fixes
@@ -305,7 +301,6 @@
 - Improve author link flexibility. [#1581](https://github.com/mmistakes/minimal-mistakes/issues/1581)
 - Improve footer link flexibility.
 - Deprecate `cta_label` and `cta_url` in header overlay in favor of new `actions` array that allows for multiple "call to action" button links. [#1461](https://github.com/mmistakes/minimal-mistakes/issues/1461)
-- Add support to [gallery helper](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery) for defining column layout (`half`, `third`, or single `''`). [#1821](https://github.com/mmistakes/minimal-mistakes/issues/1821)
 
 ### Bug Fixes
 
@@ -326,7 +321,6 @@
 - Style archive links with appropriate link color.
 - Adjust feature row spacing and font-sizes.
 - Use sentence case and increase font-sizes for improved readability in table of contents.
-- Add `{{ content }}` to `home` layout. [#1775](https://github.com/mmistakes/minimal-mistakes/pull/1775)
 
 ## [4.12.1](https://github.com/mmistakes/minimal-mistakes/releases/tag/4.12.1)
 
@@ -346,9 +340,6 @@
 ### Enhancements
 
 - Add Hungarian localized UI text strings. [#1682](https://github.com/mmistakes/minimal-mistakes/pull/1682)
-- DRY `tags_max` calculation in tags.html layout. [#1696](https://github.com/mmistakes/minimal-mistakes/pull/1696)
-- DRY `categories_max` calculation in categories.html layout.
-- Add support for ["sticking" table of contents](https://mmistakes.github.io/minimal-mistakes/layout-table-of-contents-sticky/) to top of page via `toc_sticky: true` YAML Front Matter.
 - Add support for captioning images in feature row helper via `image_caption` YAML Front Matter. [#1440](https://github.com/mmistakes/minimal-mistakes/issues/1440)
 - Add [Google Custom Search Engine](https://cse.google.com/cse) support. [#1652](https://github.com/mmistakes/minimal-mistakes/issues/1652)
 - Update Font Awesome to version [`5.1.13`](https://github.com/FortAwesome/Font-Awesome/blob/master/CHANGELOG.md)
@@ -363,7 +354,6 @@
 - Fix table of contents missing borders. [#1675](https://github.com/mmistakes/minimal-mistakes/issues/1675)
 - Fix link to "Recipes" sample archive on documentation site. [#1664](https://github.com/mmistakes/minimal-mistakes/pull/1664)
 - Update example Reddit social share interpolation syntax in documentation. [#1656](https://github.com/mmistakes/minimal-mistakes/issues/1656)
-- Fix "Back to Top" links on pages that use [header overlays](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#header-overlay).
 
 ## [4.11.2](https://github.com/mmistakes/minimal-mistakes/releases/tag/4.11.2)
 
@@ -383,7 +373,6 @@
 ### Enhancements
 
 * Add default `theme` and `remote_theme` values to `_config.yml`.
-* Add new layouts (`posts`, `categories`, `tags`, `collection`, `category`, and `tag`) for easier archive page creation.
 
 ### Bug Fixes
 
@@ -417,7 +406,6 @@
 
 * Simplify year archive Liquid.
 * Add documentation on how to downgrade theme.
-* Improve greedy navigation's layout when JavaScript is disabled.
 * Improve SEO include by grouping similar tags, reducing white-space, and adding `article:modified_time`. [#1456](https://github.com/mmistakes/minimal-mistakes/pull/1456)
 * Minify `assets/js/lunr/lunr.js`.
 * Improve calculation of Greedy navigation's `availableSpace`.
@@ -425,10 +413,8 @@
 * Indicate that archive titles are links with an underline.
 * Remove `base_path` include from `/test` pages.
 * Reduce font-size of page meta in list/grid items.
-* Improve feature row styling when used with `archive` layout. [#1484](https://github.com/mmistakes/minimal-mistakes/issues/1484)
 * Improve German translations. [#1511](https://github.com/mmistakes/minimal-mistakes/pull/1511)
 * Update Font Awesome to `5.0.6`. [#1513](https://github.com/mmistakes/minimal-mistakes/pull/1513)
-* Add `wide` variant to single layout. [#1516](https://github.com/mmistakes/minimal-mistakes/pull/1516)
 
 ### Bug Fixes
 
@@ -500,7 +486,6 @@
 
 ### Enhancements
 
-* Add search layout powered by [Lunr](https://lunrjs.com/). [#1353](https://github.com/mmistakes/minimal-mistakes/pull/1353)
 * Use [jekyll-remote-theme](https://github.com/benbalter/jekyll-remote-theme) for demo site. [#1339](https://github.com/mmistakes/minimal-mistakes/issues/1339)
 * Add note about WordPress to Staticman comment migration tool in documentation. [#1346](https://github.com/mmistakes/minimal-mistakes/issues/1346)
 
@@ -508,7 +493,6 @@
 
 * Change `http` to `https` for Jekyll and Browserhappy links. [#1342](https://github.com/mmistakes/minimal-mistakes/pull/1342) [#1343](https://github.com/mmistakes/minimal-mistakes/pull/1343)
 * Change `http` author profile links to `https` when supported. [#1349](https://github.com/mmistakes/minimal-mistakes/pull/1349)
-* Fix broken SCSS partial links in layouts documentation. [#1351](https://github.com/mmistakes/minimal-mistakes/issues/1351)
 
 ## [4.7.0](https://github.com/mmistakes/minimal-mistakes/releases/tag/4.7.0)
 
@@ -561,7 +545,6 @@
 * Fix "Posts by tag" grammar in documentation. [#1209](https://github.com/mmistakes/minimal-mistakes/pull/1209)
 * Improve Chinese `date_label` and `minute_read` translations in `ui-text.yml`. [#1205](https://github.com/mmistakes/minimal-mistakes/pull/1205) [#1211](https://github.com/mmistakes/minimal-mistakes/pull/1211)
 * Add note to Quick-Start Guide about GitHub Pages hosting alternatives that allow 3rd party gem themes and Jekyll plugins.
-* Add note to configuration documentation about Cloudflare minification as an alternative to `layout: compress`. [#1217](https://github.com/mmistakes/minimal-mistakes/pull/1217)
 * Show 4 latest posts in "You May Also Enjoy" module when `related: true` and no related posts are found due to `lsi` ([latent semantic indexing](https://en.wikipedia.org/wiki/Latent_semantic_analysis#Latent_semantic_indexing)) being disabled on GitHub Pages. [#554](https://github.com/mmistakes/minimal-mistakes/issues/554)
 * Truncate archive item titles' that overflow with an ellipsis. [#1213](https://github.com/mmistakes/minimal-mistakes/issues/1213)
 
@@ -580,16 +563,13 @@
 
 * Add Greek and Danish localized UI text strings. [#1159](https://github.com/mmistakes/minimal-mistakes/pull/1159) [#1188](https://github.com/mmistakes/minimal-mistakes/pull/1188)
 * Remove blank YAML Front Matter from JavaScript banner. [#1158](https://github.com/mmistakes/minimal-mistakes/issues/1158)
-* Improve `page` and `archive` layouts to visually center main content and harmonize sidebar widths and placement. [#1166](https://github.com/mmistakes/minimal-mistakes/pull/1166)
 * Increase font-size of code blocks.
 * Reduce indent of nested "table of contents" links.
-* Extend [archive grid view](https://mmistakes.github.io/minimal-mistakes/docs/layouts/) to the right to better fill the page.
 * URL encode title and page URL in social share links. [#1177](https://github.com/mmistakes/minimal-mistakes/pull/1177)
 * Replace old Disqus script with new Universal Embed Code. [#1179](https://github.com/mmistakes/minimal-mistakes/pull/1179)
 
 ### Bug Fixes
 
-* Fix positioning of sidebar table of contents when using `layout: splash`. [#1169](https://github.com/mmistakes/minimal-mistakes/issues/1169)
 * Fix "follow" links `z-index` order to avoid overlapping issues. [#1167](https://github.com/mmistakes/minimal-mistakes/issues/1167)
 
 ### Maintenance
@@ -685,7 +665,6 @@
 
   ```
   ---
-  layout:
   ---
   ```
 
@@ -706,7 +685,6 @@
 
 ### Maintenance
 
-* Add theme meta info to `_layouts/default.html` and `main.css`.
 * Update README.
 * Improve the pagination and taxonomy archive documentation. [#826](https://github.com/mmistakes/minimal-mistakes/pull/826)
 * Add comments to `/docs/_config.yml` to clarify use of YAML references. [#847](https://github.com/mmistakes/minimal-mistakes/pull/847)
@@ -715,7 +693,6 @@
 
 ### Enhancements
 
-* Improve `paginator.html` to support paginated pages that live inside of a subfolder. See [documentation](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#home-page) for more details. [#764](https://github.com/mmistakes/minimal-mistakes/pull/764/)
 
 ### Maintenance
 
@@ -725,7 +702,6 @@
 
 ### Enhancements
 
-* Add `video` helper (for YouTube/Vimeo) and video headers to `single`, `archive`, and `splash` layouts. [#788](https://github.com/mmistakes/minimal-mistakes/pull/788)
 * Add missing simplified Chinese localized UI text strings. [#747](https://github.com/mmistakes/minimal-mistakes/pull/747)
 * Add Nepali (Nepalese) localized UI text strings. [#785](https://github.com/mmistakes/minimal-mistakes/pull/785)
 * Remove borders from table elements found in Google Custom Search Engine widget. [#759](https://github.com/mmistakes/minimal-mistakes/issues/759)
@@ -787,7 +763,6 @@
 
 ### Maintenance
 
-* Add Google AdSense banner to `/docs/_layouts/default.html` for demo site.
 
 ## [4.0.7](https://github.com/mmistakes/minimal-mistakes/releases/tag/4.0.7)
 
@@ -842,7 +817,6 @@
 * "Gemify" theme ~> `gem "minimal-mistakes-jekyll"`
 * Replace `base_path` include with `absolute_url` filter where possible.
 * Allow images to be placed in other folders. Remove `/images/` only restriction and encourage placement in `/assets/images/` instead. **Full paths are now required. If upgrading from MM 3.4 add `/images/` before filenames in Front Matter and `_config.yml` variables.**
-* Add [home `layout`](https://github.com/mmistakes/minimal-mistakes/blob/master/_layouts/home.html)
 * Added missing Turkish translations for UI text. [#621](https://github.com/mmistakes/minimal-mistakes/pull/621)
 * Make author avatar optional in sidebar.
 * Update **/\_includes/seo.html** for meta description. [#558](https://github.com/mmistakes/minimal-mistakes/pull/558)
@@ -878,7 +852,6 @@
 
 ### Enhancements
 
-* Add `layout` based and user-defined class names to `<body>` element for added CSS hooks. [#526](https://github.com/mmistakes/minimal-mistakes/pull/526)
 * Add simplified Chinese localized UI text. [#532](https://github.com/mmistakes/minimal-mistakes/pull/532)
 
 ### Bug Fixes
@@ -893,7 +866,6 @@
 
 ### Bug Fixes
 
-* Disable `compress` HTML layout by default. To enable add `layout: compress` to `_layouts/default.html`.
 
 ## [3.4.5](https://github.com/mmistakes/minimal-mistakes/releases/tag/3.4.5)
 
@@ -981,7 +953,6 @@
 ### Maintenance
 
 - Document `site.repository` and its role with [`github-metadata`](https://github.com/jekyll/github-metadata) gem.
-- Add sample [archive page with content](https://mmistakes.github.io/minimal-mistakes/archive-layout-with-content/) for testing styles on demo site.
 
 ## [3.3.6](https://github.com/mmistakes/minimal-mistakes/releases/tag/3.3.6)
 
@@ -1033,7 +1004,6 @@
 
 ### Bug Fixes
 
-- Fix JavaScript that triggers "sticky" sidebar to avoid layout issues on screen sizes < `1024px`. [#396](https://github.com/mmistakes/minimal-mistakes/issues/396)
 
 ## [3.3.1](https://github.com/mmistakes/minimal-mistakes/releases/tag/3.3.1)
 
@@ -1087,7 +1057,6 @@
 
 ### Enhancements
 
-- Add support for [header overlay images](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#header-overlay) for Open Graph images. [#358](https://github.com/mmistakes/minimal-mistakes/pull/358)
 
 ### Bug Fixes
 
@@ -1122,7 +1091,6 @@
 
 ### Bug Fixes
 
-- Fix error `Liquid Exception: divided by 0 in _includes/archive-single.html, included in _layouts/single.html` caused by null `words_per_minute` in `_config.yml`. [#345](https://github.com/mmistakes/minimal-mistakes/pull/345)
 
 ## [3.2.5](https://github.com/mmistakes/minimal-mistakes/releases/tag/3.2.5)
 
@@ -1180,7 +1148,6 @@
 
 ### Bug Fixes
 
-- Fix `Liquid Exception: undefined method 'gsub' for nil:NilClass in _layouts/single.html` error when `page.title` is null. `<h1>` element is now conditional if `title:` is not set for a `page` or collection item. [#312](https://github.com/mmistakes/minimal-mistakes/issues/312)
 
 ### Maintenance
 
@@ -1226,7 +1193,6 @@
 ### Bug Fixes
 
 - Fix `og_image` URL in seo.html [#277](https://github.com/mmistakes/minimal-mistakes/issues/277)
-- Fix `author_profile` toggle when assigned in a `_layout` [#285](https://github.com/mmistakes/minimal-mistakes/issues/285)
 - Fix typo in `build:all` npm script [#283](https://github.com/mmistakes/minimal-mistakes/pull/283)
 - Fix URL typo documentation [#287](https://github.com/mmistakes/minimal-mistakes/issues/287)
 - SEO author bug. If `twitter.username` is set and `author.twitter` is `nil` bad things happen. [#289](https://github.com/mmistakes/minimal-mistakes/issues/289)
@@ -1263,7 +1229,6 @@
 
 ### Enhancements
 
-- Rebuilt the entire theme: layouts, includes, stylesheets, scripts, you name it.
 - Refreshed the look and feel while staying true to the original design of the theme (author sidebar/main content).
 - Replaced grid system with [Susy](http://susy.oddbird.net/).
 - Replaced Grunt tasks with `npm` scripts.
@@ -1271,11 +1236,9 @@
 - Greatly improved [theme documentation](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/).
 - Increased the amount of sample posts, sample pages, and sample collections to throughly test the theme and edge-cases.
 - Moved all sample content and assets out of `master` to keep it as clean as possible for forking.
-- Added new layouts for `splash` pages, archives for [`jekyll-archives`](https://github.com/jekyll/jekyll-archives) if enabled, and [`compress.html`](https://github.com/penibelst/jekyll-compress-html) to improve performance.
 - Added taxonomy links to posts (tags and categories).
 - Added optional "reading time" meta data.
 - Improved Liquid used for Twitter Cards and Open Graph data in `<head>`.
-- Improved `gallery` include helper and added `feature_row` for use with splash page layout.
 - Added Keybase.io, author web URI, and Bitbucket optional links to sidebar.
 - Add `feed.xml` link to footer.
 - Added a [UI text data file](https://mmistakes.github.io/minimal-mistakes/docs/ui-text/) to easily change all text found in the theme.
