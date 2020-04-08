@@ -1,6 +1,6 @@
 ---
-title: Art
-date: 2015-05-20 05:07:43.000000000 -06:00
+title: art
+permalink: /art/
 ---
 Some of the art I've made for fun over the years.
 
