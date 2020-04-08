@@ -51,7 +51,7 @@ A lot of what I do each day, is help others minimize risk by understanding peopl
 ### Other Info
 I’m just as comfortable behind the keyboard as I am presenting to a large crowd—Just give me time to prepare!  I feel like I have a great sense of [humor]({% link _posts/2015-11-28-grossest-halloween-ever.markdown %}), always try to remain positive, and try to build & lift others up.
 
-I've never been one to just sit on their laurels waiting for things to happen. I'm a top performer, and enjoy working with people, learning new things, and engineering cool solutions. Check out [this]({% link recruiters.md %}) page for recruiting information.
+I've never been one to just sit on their laurels waiting for things to happen. I'm a top performer, and enjoy working with people, learning new things, and engineering cool solutions. Check out [this]({% link _pages/recruiters.md %}) page for recruiting information.
 
 ## Blogging
 This is a blog I have migrated around from different platforms since 2004. It went like this if I recall correctly:
