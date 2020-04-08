@@ -94,9 +94,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ben Francom"
+#  name             : "Ben Francom"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "tech, art, music"
+  bio              : "Miscellaneous Debris"
   location         : "US"
   email            : "bfrancom@gmail.com"
   links:
