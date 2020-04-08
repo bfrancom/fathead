@@ -1,23 +1,10 @@
 ---
 permalink: /about/
 title: About
-last_modified_at: 2020-03-23T14:07:54-04:00
 toc: true
 ---
 
-## Join!
-Subscribe and receive exclusive content directly from Ben:
-
-<form name="contact" method="POST" data-netlify="true">
-  <p>
-    <label>Email: <input type="email" name="email" /></label>
-  </p>
-  <p>
-    <button type="submit">Submit</button>
-  </p>
-</form>
-
-## Overview
+## Quick Overview
 I really enjoy securing, building, and automating IT infrastructure, while also guiding others in best practices and patterns. I’ve been doing this for over 20 years in both technical and leadership roles and love journeying together with others to solve complex problems. 
 
 I’ve consulted on many projects, both large and small to determine the best way to implement solutions across all facets of IT including software, networking, and hardware solutions.
@@ -26,7 +13,7 @@ I’m one of those rare people with a weird balance of being both left and [righ
 
 These  combined skills have given me the ability to swivel from deep technical issues, over to teaching complex concepts to my more business-minded colleagues. 
 
-## "Then we must go pro!" 
+## Long Version
 ### CIO
 Professionally, I’ve overseen all information technology as CIO for a $250MM national construction company. It was there where I gained a ton of experience working with multiple technologies and people. I was the liason between business and IT to help them understand the value of IT solutions.  I also coordinated and managed many projects by working with vendors, contractors and staff.
 
@@ -73,3 +60,14 @@ One of my favorite childhood movies was [Krull](https://www.imdb.com/title/tt008
 
 The main weapon in the film was the "Glaive." It was such a cool looking thing for my young eyes to behold. It had magical powers, and a sense of awe and wonder about it. It's what you would get if a boomerang & shuriken had a baby. Not to be confused with [Oddjob's hat](https://youtu.be/9H8UkrKN2rQ) in that one James Bond film.
 
+## Join!
+Subscribe and receive exclusive content directly from Ben:
+
+<form name="contact" method="POST" data-netlify="true">
+  <p>
+    <label>Email: <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <button type="submit">Submit</button>
+  </p>
+</form>
