@@ -20,7 +20,7 @@ locale                   : "en-US"
 title                    : "Ben Francom"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "My Blog"
+name                     : "Ben Francom"
 description              : "Miscellaneous debris"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
