@@ -1,7 +1,7 @@
 ---
 title: Amplifier, Incubus, and Infectious Grooves
 date: 2019-11-01 19:54:00.000000000 -06:00
-
+categories: [music]
 ---
 
 Today, I discovered a new band that is surprisingly good. It's sort of like a cross between Rush, Black Sabbath, and David Bowie. The band is called [Amplifier](https://www.amplifierband.com/), and they have been around since '99, so it surprises me that I haven't heard of them before. I started listening to the album, ["The Octopus"](https://music.apple.com/us/album/the-octopus/1198303873) released in 2017, but they also have another record called ["Trippin' with Dr Faustus"](https://music.apple.com/us/album/trippin-with-dr-faustus/1235100150), released the same year???

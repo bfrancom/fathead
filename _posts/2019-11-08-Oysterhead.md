@@ -1,7 +1,7 @@
 ---
 title: New Music Friday—Oysterhead
 date: 2019-11-08 17:00:00.000000000 -06:00
-
+categories: [music]
 ---
 
 What happens when you mix some great musicians from Primus, The Police, and Phish? Is it "P-cubed?" Or "P-To-The-Three?" As much fun as those play on words would be, the correct answer is [Oysterhead](https://en.wikipedia.org/wiki/Oysterhead). 
